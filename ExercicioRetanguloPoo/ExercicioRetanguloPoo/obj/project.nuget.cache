@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MkaV3xA+rOPrEN9FHW36d4f+R4zAZf9AL4UoqMPBDnsWjQEg5KOOSTWmNOX5usB0T1jPuSzC9jKZVQjeMZtCYg==",
+  "success": true,
+  "projectFilePath": "C:\\ws-vs22\\ExercicioRetanguloPoo\\ExercicioRetanguloPoo\\ExercicioRetanguloPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Lopes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.exe
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.deps.json
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.runtimeconfig.json
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.runtimeconfig.dev.json
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.dll
+C:\ws-vs22\Praticando\Praticando\bin\Debug\net5.0\Praticando.pdb
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.csproj.AssemblyReference.cache
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.AssemblyInfoInputs.cache
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.AssemblyInfo.cs
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.csproj.CoreCompileInputs.cache
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.dll
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\refint\Praticando.dll
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.pdb
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\Praticando.genruntimeconfig.cache
+C:\ws-vs22\Praticando\Praticando\obj\Debug\net5.0\ref\Praticando.dll

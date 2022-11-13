@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.exe
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.deps.json
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.runtimeconfig.json
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.dll
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\bin\Debug\net5.0\ExercicioRetanguloPoo1.pdb
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.AssemblyInfo.cs
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.dll
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\refint\ExercicioRetanguloPoo1.dll
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.pdb
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ExercicioRetanguloPoo1.genruntimeconfig.cache
+C:\ws-vs22\ExercicioRetanguloPoo1\ExercicioRetanguloPoo1\obj\Debug\net5.0\ref\ExercicioRetanguloPoo1.dll

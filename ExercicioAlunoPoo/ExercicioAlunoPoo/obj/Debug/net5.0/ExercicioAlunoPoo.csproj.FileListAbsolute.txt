@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.AssemblyInfo.cs
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.exe
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.deps.json
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.runtimeconfig.json
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.dll
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\bin\Debug\net5.0\ExercicioAlunoPoo.pdb
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.dll
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\refint\ExercicioAlunoPoo.dll
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.pdb
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ExercicioAlunoPoo.genruntimeconfig.cache
+C:\ws-vs22\ExercicioAlunoPoo\ExercicioAlunoPoo\obj\Debug\net5.0\ref\ExercicioAlunoPoo.dll

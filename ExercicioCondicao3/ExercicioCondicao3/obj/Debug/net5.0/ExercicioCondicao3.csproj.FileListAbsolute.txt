@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.exe
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.deps.json
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.runtimeconfig.json
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.dll
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\bin\Debug\net5.0\ExercicioCondicao3.pdb
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.AssemblyInfo.cs
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.dll
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\refint\ExercicioCondicao3.dll
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.pdb
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ExercicioCondicao3.genruntimeconfig.cache
+C:\ws-vs22\ExercicioCondicao3\ExercicioCondicao3\obj\Debug\net5.0\ref\ExercicioCondicao3.dll

@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.exe
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.deps.json
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.runtimeconfig.json
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.dll
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\bin\Debug\net5.0\ExercicioProposto1.pdb
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.AssemblyInfo.cs
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.dll
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\refint\ExercicioProposto1.dll
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.pdb
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ExercicioProposto1.genruntimeconfig.cache
+C:\ws-vs22\ExercicioProposto1\ExercicioProposto1\obj\Debug\net5.0\ref\ExercicioProposto1.dll

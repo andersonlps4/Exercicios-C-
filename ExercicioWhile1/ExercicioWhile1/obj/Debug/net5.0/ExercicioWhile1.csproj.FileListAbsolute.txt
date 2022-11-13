@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.exe
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.deps.json
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.runtimeconfig.json
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.dll
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\bin\Debug\net5.0\ExercicioWhile1.pdb
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.AssemblyInfo.cs
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.dll
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\refint\ExercicioWhile1.dll
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.pdb
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ExercicioWhile1.genruntimeconfig.cache
+C:\ws-vs22\ExercicioWhile1\ExercicioWhile1\obj\Debug\net5.0\ref\ExercicioWhile1.dll

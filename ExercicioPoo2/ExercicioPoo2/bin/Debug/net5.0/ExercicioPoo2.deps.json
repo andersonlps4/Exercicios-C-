@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioPoo2/1.0.0": {
+        "runtime": {
+          "ExercicioPoo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioPoo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hp0/Gwv80IrX6gSHfkSnYcEHPZktN4GsP7AH7LF9YLyVC4Zq1eQsAYNAPsjdULhXkmGN0kd9xOH/KL7jwYtlWg==",
+  "success": true,
+  "projectFilePath": "C:\\ws-vs22\\ExercicioSalarioPoo\\ExercicioSalarioPoo\\ExercicioSalarioPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Lopes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

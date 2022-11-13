@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.exe
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.deps.json
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.runtimeconfig.json
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.dll
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\bin\Debug\net5.0\ExercicioContrutores.pdb
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.AssemblyInfo.cs
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.dll
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\refint\ExercicioContrutores.dll
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.pdb
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ExercicioContrutores.genruntimeconfig.cache
+C:\ws-vs22\ExercicioContrutores\ExercicioContrutores\obj\Debug\net5.0\ref\ExercicioContrutores.dll

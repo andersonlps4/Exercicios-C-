@@ -1,0 +1,16 @@
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.exe
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.deps.json
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.runtimeconfig.json
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.runtimeconfig.dev.json
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.dll
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\bin\Debug\net5.0\CalculadoraPoo.pdb
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.csproj.AssemblyReference.cache
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.AssemblyInfoInputs.cache
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.AssemblyInfo.cs
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.csproj.CoreCompileInputs.cache
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.dll
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\refint\CalculadoraPoo.dll
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.pdb
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\CalculadoraPoo.genruntimeconfig.cache
+C:\ws-vs22\CalculadoraPoo\CalculadoraPoo\obj\Debug\net5.0\ref\CalculadoraPoo.dll

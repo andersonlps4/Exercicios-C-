@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.exe
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.deps.json
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.json
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.dll
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\bin\Debug\net5.0\ExercicioTriangulo.pdb
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.AssemblyInfo.cs
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.dll
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\refint\ExercicioTriangulo.dll
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.pdb
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ExercicioTriangulo.genruntimeconfig.cache
+C:\ws-vs22\ExercicioTriangulo\ExercicioTriangulo\obj\Debug\net5.0\ref\ExercicioTriangulo.dll

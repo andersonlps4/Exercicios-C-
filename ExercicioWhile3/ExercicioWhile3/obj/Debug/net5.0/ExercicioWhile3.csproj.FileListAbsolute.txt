@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.AssemblyInfo.cs
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.exe
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.deps.json
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.runtimeconfig.json
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.dll
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\bin\Debug\net5.0\ExercicioWhile3.pdb
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.dll
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\refint\ExercicioWhile3.dll
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.pdb
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ExercicioWhile3.genruntimeconfig.cache
+C:\ws-vs22\ExercicioWhile3\ExercicioWhile3\obj\Debug\net5.0\ref\ExercicioWhile3.dll

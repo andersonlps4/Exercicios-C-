@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.exe
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.deps.json
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.runtimeconfig.json
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.dll
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\bin\Debug\net5.0\ExercicioFor3.pdb
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.AssemblyInfo.cs
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.dll
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\refint\ExercicioFor3.dll
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.pdb
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ExercicioFor3.genruntimeconfig.cache
+C:\ws-vs22\ExercicioFor3\ExercicioFor3\obj\Debug\net5.0\ref\ExercicioFor3.dll

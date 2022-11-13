@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "utovBw+Hxm3BhUtyBzKhlBoISl3fmuRZE4RUzY4xN52zfZGr3JpYsJvrvnAWMgHMYVmG6lv+zMvJ6g1bB7N2Jg==",
+  "success": true,
+  "projectFilePath": "C:\\ws-vs22\\ExercicioTriangulo\\ExercicioTriangulo\\ExercicioTriangulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Lopes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

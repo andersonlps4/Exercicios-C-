@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTiUQdTr4cfU9ZCjdljyoVblrNnE3la+v8CcmkmWRmlwjYvPNlTxoTqeGDXN8eYZu/2hRbYG3jxtJgQjEDhjjQ==",
+  "success": true,
+  "projectFilePath": "C:\\ws-vs22\\ExercicioAlunoPoo\\ExercicioAlunoPoo\\ExercicioAlunoPoo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Lopes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

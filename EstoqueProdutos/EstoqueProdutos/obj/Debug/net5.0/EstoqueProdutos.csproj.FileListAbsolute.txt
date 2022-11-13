@@ -1,0 +1,16 @@
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.exe
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.deps.json
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.runtimeconfig.json
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.runtimeconfig.dev.json
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.dll
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\bin\Debug\net5.0\EstoqueProdutos.pdb
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.csproj.AssemblyReference.cache
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.AssemblyInfoInputs.cache
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.AssemblyInfo.cs
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.csproj.CoreCompileInputs.cache
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.dll
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\refint\EstoqueProdutos.dll
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.pdb
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\EstoqueProdutos.genruntimeconfig.cache
+C:\ws-vs22\EstoqueProdutos\EstoqueProdutos\obj\Debug\net5.0\ref\EstoqueProdutos.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExercicioSalarioPoo/1.0.0": {
+        "runtime": {
+          "ExercicioSalarioPoo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioSalarioPoo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

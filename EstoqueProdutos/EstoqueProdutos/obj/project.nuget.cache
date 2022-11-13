@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQ5t05sAejq8Yy9xwqbFC8xROJXnohGRTiKdXQJPatWPK/S5OwsM9V5MRRj775H78lYi3yDDeXNJ5E3zLiSjFQ==",
+  "success": true,
+  "projectFilePath": "C:\\ws-vs22\\EstoqueProdutos\\EstoqueProdutos\\EstoqueProdutos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anderson Lopes\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

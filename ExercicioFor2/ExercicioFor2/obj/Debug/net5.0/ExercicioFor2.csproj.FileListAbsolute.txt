@@ -1,0 +1,16 @@
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.exe
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.deps.json
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.runtimeconfig.json
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.runtimeconfig.dev.json
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.dll
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\bin\Debug\net5.0\ExercicioFor2.pdb
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.csproj.AssemblyReference.cache
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.AssemblyInfoInputs.cache
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.AssemblyInfo.cs
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.csproj.CoreCompileInputs.cache
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.dll
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\refint\ExercicioFor2.dll
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.pdb
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ExercicioFor2.genruntimeconfig.cache
+C:\ws-vs22\ExercicioFor2\ExercicioFor2\obj\Debug\net5.0\ref\ExercicioFor2.dll

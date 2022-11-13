@@ -1,0 +1,16 @@
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.exe
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.deps.json
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.runtimeconfig.json
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.runtimeconfig.dev.json
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.dll
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\bin\Debug\net5.0\SaidaDeDados3.pdb
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.csproj.AssemblyReference.cache
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.AssemblyInfoInputs.cache
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.AssemblyInfo.cs
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.csproj.CoreCompileInputs.cache
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.dll
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\refint\SaidaDeDados3.dll
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.pdb
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\SaidaDeDados3.genruntimeconfig.cache
+C:\ws-vs22\SaidaDeDados3\SaidaDeDados3\obj\Debug\net5.0\ref\SaidaDeDados3.dll
